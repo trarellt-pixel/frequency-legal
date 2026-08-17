@@ -1,0 +1,48 @@
+FREQUENCY TERMS OF USE (EULA)
+Fortress Technologies LLC
+Last updated August 17, 2026
+
+These Terms of Use are the End User License Agreement (EULA) for the Frequency iOS app. By using Frequency, you also agree to Apple’s Standard Licensed Application End User License Agreement:
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+If you do not agree, do not use the app.
+
+SUBSCRIPTIONS AND BILLING
+Frequency is a personal wealth-literacy and mindset app. Paid access is sold as auto-renewable Apple subscriptions:
+- Frequency Monthly — 1 month — $14.99 USD
+- Frequency Annual — 1 year — $59.99 USD
+
+Payment is charged to your Apple ID account at confirmation of purchase. Subscriptions renew automatically unless auto-renew is turned off at least 24 hours before the end of the current period. Your account is charged for renewal within 24 hours prior to the end of the current period. You can manage or cancel your subscription anytime in iPhone Settings > Apple ID > Subscriptions. Any unused portion of a free trial period, where offered, is forfeited when you purchase a subscription. You can restore previous Apple purchases from Frequency using Restore Purchases.
+
+REFUNDS
+All purchases are billed through the App Store and are subject to Apple’s refund policies. Frequency does not process refunds directly. To request one, use Apple’s Report a Problem feature.
+
+EDUCATIONAL CONTENT
+Content in Frequency, including mindset lessons, wealth-literacy material, and Healing Tones, is for educational and personal-development purposes only. It is not financial, investment, medical, or professional advice. Healing Tones are wellness audio only and are not a medical device or treatment.
+
+YOUR CONTENT
+Information you enter is private to you and stored only on your device.
+
+ACCEPTABLE USE
+Use Frequency only for its intended personal, non-commercial purpose.
+
+INTELLECTUAL PROPERTY
+Frequency, its content, design, and branding are owned by Fortress Technologies LLC. Your subscription grants a personal license to use the app and does not transfer ownership.
+
+DISCLAIMER
+Frequency is provided as is, without warranties of any kind. To the fullest extent permitted by law, Fortress Technologies LLC is not liable for any indirect, incidental, or consequential damages arising from your use of the app.
+
+TERMINATION
+We may suspend or terminate access for misuse. You may stop using Frequency and cancel your subscription at any time.
+
+GOVERNING LAW
+These terms are governed by the laws of the State of Georgia, USA.
+
+PRIVACY
+https://trarellt-pixel.github.io/frequency-legal/privacy.html
+
+SUPPORT
+https://trarellt-pixel.github.io/frequency-legal/support.html
+support@fortresstechnologies.com
+
+Fortress Technologies LLC
