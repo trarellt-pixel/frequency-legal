@@ -22,6 +22,8 @@ Privacy Policy: https://trarellt-pixel.github.io/frequency-legal/privacy.html
 Terms of Use (EULA): https://trarellt-pixel.github.io/frequency-legal/terms.html
 ```
 
+Frequency support email (use this, not a Fortress address): `frequencyapp.support@gmail.com`
+
 If App Store Connect asks for a custom license agreement as plain text, paste the contents of `eula.txt`.
 
 ## Why items show Failed or Rejected
