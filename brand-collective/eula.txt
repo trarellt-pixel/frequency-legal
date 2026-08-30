@@ -1,0 +1,33 @@
+THE BRAND COLLECTIVE TERMS OF USE (EULA)
+Brand Collective Studio
+Fortress Technologies
+Last updated August 30, 2026
+
+These Terms of Use are the End User License Agreement (EULA) for Brand Collective Studio, a Mac App Store app from Fortress Technologies. By using the app you also agree to Apple’s Standard Licensed Application End User License Agreement:
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+If you do not agree, do not use the app.
+
+Brand Collective Studio is licensed through the Mac App Store. Paid plans (Starter, Pro, Studio) are auto-renewable monthly subscriptions sold by Apple through StoreKit:
+- Starter — 1 month — $9.99 USD
+- Pro — 1 month — $29.99 USD
+- Studio — 1 month — $79.99 USD
+
+Manage or cancel in System Settings → Apple Account → Subscriptions, or from Account → Manage Subscription in the app.
+
+The Mac app is not a web browser. It loads your Brand Collective workspace inside a sandboxed native shell with StoreKit billing, native file access, and origin-locked navigation. Sign-in uses a username and password.
+
+You are responsible for the client work, contracts, and files you store. Do not use the studio for unlawful content. We may suspend accounts that abuse the service.
+
+After you sign in with your username and password, you may delete your account in Settings → Delete account (type DELETE to confirm). Deletion removes your account data from the studio. There is no self-serve web deletion URL. Deleting your account does not cancel Apple billing.
+
+PRIVACY
+https://trarellt-pixel.github.io/frequency-legal/brand-collective/privacy.html
+https://brandcollectivemedia-production.up.railway.app/legal/privacy
+
+SUPPORT
+https://trarellt-pixel.github.io/frequency-legal/brand-collective/support.html
+support@brandcollectivemedia.com
+
+Fortress Technologies
+Brand Collective Studio

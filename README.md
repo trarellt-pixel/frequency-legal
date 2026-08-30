@@ -39,3 +39,15 @@ Apple flags metadata when a required URL is missing, 404, or is not clearly a pr
 2. Open each URL in a private browser window and confirm it loads.
 3. In App Store Connect, use only the table above.
 4. Save the app version, then check that Privacy Policy, Support URL, and subscription items no longer show a red failed state.
+
+## Brand Collective Studio (separate product)
+
+Brand Collective Studio pages are in `/brand-collective/`. They do not replace Frequency pages or the Frequency support email above.
+
+| App Store Connect field | Brand Collective URL |
+| --- | --- |
+| Privacy Policy URL | https://trarellt-pixel.github.io/frequency-legal/brand-collective/privacy.html |
+| Terms of Use / EULA | https://trarellt-pixel.github.io/frequency-legal/brand-collective/terms.html |
+| Support URL | https://trarellt-pixel.github.io/frequency-legal/brand-collective/support.html |
+
+Brand Collective support email: `support@brandcollectivemedia.com`. Full table: `brand-collective/README.md`.
